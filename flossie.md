@@ -212,17 +212,17 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
   - Level 1:
-    - Absorb elements (react)
+    - Absorb elements (react) *
     - Chromatic orb (90ft, acid/cold/fire/lightning/poison/thunder, ranged attack 3d8)
-    - * Detect Magic (rit)
+    - Detect Magic (rit)
     - Find Familiar (rit)
-    - * Mage Armour
-    - * Magic Missile
-    - * Shield (react)
-    - * Sleep
+    - Mage Armour *
+    - Magic Missile *
+    - Shield (react) *
+    - Sleep *
   - Level 2:
-    - * Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half)
-    - * Phantasmal Force
+    - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half) *
+    - Phantasmal Force *
 
 ### Slots
 
