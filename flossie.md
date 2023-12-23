@@ -118,12 +118,12 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
  - Clothing:
    - George the quarterstaff 1d8 [^wizard]
    - Sturdy boots
+   - Leather overtunic
    - Cloth skirt with pockets
-      - Leather overtunic
       - Flask of Brandy
       - 1x Dagger 1d4 (concealed in a garter)
    - Vest
-     - Shirt
+   - Shirt
    - Cloak with several pockets
      - Gloves
    - Scarf
@@ -191,7 +191,7 @@ Through sheer curiosity Flossie wishes to investigate the relatively new and unh
 Months ago, Flossie served as a guide for a band of mysterious pilgrims who set out to reoccupy the Sacred Stone Monastery. Her research leads her to infiltrate the group and discover their intentions. Perhaps she can discover hidden knowledge they sought in the library of the temple.
 
 #### Backstory
-Flossie grew up in Volcanoside, a child off well off vintners. She showed early aptitude in the magical arts and was apprenticed under Magister Fuzzybeard at an early age. She interrupted her studies to join her two elder sisters responding to the call to head off the Snowgoblin invasion in the north. The Snowgoblin wars were long and hard, but the forces of good gradually prevailed. In the last major battle the young Flossie witnessed her oldest Sister miscast Evard's Black Tentacles at the friendly solders, killing her middle sister, a dozen young recruits, and horribly traumatising countless more. Since that day the young Gnome has refused to use magic as a tool of direct violence, and she dedicated her life to the pure pursuit of magical knowledge.
+Flossie grew up in Volcanoside, a child of well off vintners. She showed early aptitude in the magical arts and was apprenticed under Magister Fuzzybeard at an early age. She interrupted her studies to join her two elder sisters responding to the call to head off the Snowgoblin invasion in the north. The Snowgoblin wars were long and hard, but the forces of good gradually prevailed. In the last major battle the young Flossie witnessed her oldest Sister miscast Evard's Black Tentacles at the friendly solders, killing her middle sister, a dozen young recruits, and horribly traumatising countless more. Since that day the young Gnome has refused to use magic as a tool of direct violence, and she dedicated her life to the pure pursuit of magical knowledge.
 
 ## Spells
 
@@ -214,15 +214,15 @@ Flossie grew up in Volcanoside, a child off well off vintners. She showed early 
   - Level 1:
     - Absorb elements (react)
     - Chromatic orb (90ft, acid/cold/fire/lightning/poison/thunder, ranged attack 3d8)
-    - Detect Magic (rit)
+    - * Detect Magic (rit)
     - Find Familiar (rit)
-    - Mage Armour
-    - Magic Missile
-    - Shield (react)
-    - Sleep
+    - * Mage Armour
+    - * Magic Missile
+    - * Shield (react)
+    - * Sleep
   - Level 2:
-    - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half)
-    - Phantasmal Force
+    - * Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half)
+    - * Phantasmal Force
 
 ### Slots
 
@@ -243,7 +243,7 @@ TODO: Tressym
 ## Notes
 
 [^cloistered-scholar]: Cloistered Scholar background
-[^order-of-scribes] Order of Scribes subclass [^wizard]
+[^order-of-scribes]: Order of Scribes subclass [^wizard]
 [^wizard]: Wizard class
 [^forest-gnome]: Rock gnome
 
