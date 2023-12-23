@@ -235,6 +235,12 @@ TODO
 
   - :o: :o: Regular spells
 
+## Familiars/companions
+
+### Familiar
+
+Tressym
+
 ## Notes
 
 [^cloistered-scholar]: Cloistered Scholar background
@@ -242,9 +248,4 @@ TODO
 [^wizard]: Wizard class
 [^forest-gnome]: Rock gnome
 
-## Familiars/companions
-
-### Familiar
-
-Tressym
 
