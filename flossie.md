@@ -6,7 +6,7 @@
 
 | Class     | Subclass         | Level | HD  |
 |-----------|------------------|------:|-----|
-| Wizard    | Order of Scribes |    3 | 1d6 |
+| Wizard    | Order of Scribes [^order-of-scribes] |    3 | 1d6 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods    |
@@ -86,10 +86,10 @@ You know the Minor Illusion cantrip. Intelligence is your spellcasting modifier 
 ### Speak with Small Beasts [^forest-gnome]
 Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
 
-### Wizardly Quill
+### Wizardly Quill [^order-of-scribes]
 As a bonus action can create a tiny quill. Writes in chosen colour without ink. Can erase itself. Scribing to spellbook takes two minutes per spell level.
 
-### Awakened Spellbook
+### Awakened Spellbook [^order-of-scribes]
  * Book is a focus.
  * When casting a leveled spell can replace damage type with type of another spell in spellbook of same level as slot expended
  * Once a day can cast wizard ritual using normal casting time.
@@ -101,44 +101,58 @@ As a bonus action can create a tiny quill. Writes in chosen colour without ink. 
 ### Cantrip Formulas
 Each day can replace one wizard cantrip
 
+## Researcher [^cloistered-scholar]
+When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it
+
 ## Money
 
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
-| PP |    1/10 |            |
-| GP |       1 |        210 |
-| EP |       2 |            |
-| SP |      10 |            |
-| CP |     100 |            |
+| PP |    1/10 |          0 |
+| GP |       1 |        208 |
+| EP |       2 |          0 |
+| SP |      10 |          3 |
+| CP |     100 |          6 |
 
 ## Equipment
 
  - Clothing:
-   - The scholar's robes of your cloister [^cloistered-scholar]
- - A small pouch [^cloistered-scholar]:
-   - A quill [^cloistered-scholar]
-   - A bottle of ink [^cloistered-scholar]
-   - Folded parchment [^cloistered-scholar]
-   - Small penknife [^cloistered-scholar]
-   - Borrowed book on the subject of your current study [^cloistered-scholar]
- - Money pouch [^cloistered-scholar]
- - Weapons:
    - George the quarterstaff 1d8 [^wizard]
-   - 0x Dagger 1d4
- - Explorer's pack [^cloistered-scholar]:
-   - a backpack
-   - a bedroll
-   - a mess kit
-   - a tinderbox
-   - 10 torches
-   - 10 days of rations
-   - a waterskin
-   - 50 feet of hempen rope
- - A spellbook [^wizard]
- - Component pouch [^wizard]
-
-## Researcher [^cloistered-scholar]
-When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it
+   - Sturdy boots
+   - Cloth skirt with pockets
+      - Leather overtunic
+      - Flask of Brandy
+      - 1x Dagger 1d4 (concealed in a garter)
+   - Vest
+     - Shirt
+   - Cloak with several pockets
+     - Gloves
+   - Scarf
+   - A green bonnet
+   - Belt (under cloak)
+     - A scroll case:
+       - Folded parchment [^cloistered-scholar]
+     - A small pouch [^cloistered-scholar]:
+       - A quill [^cloistered-scholar]
+       - A bottle of ink [^cloistered-scholar]
+       - Small penknife [^cloistered-scholar]
+       - Chalk
+     - Money pouch
+     - Component pouch [^wizard]
+     - Flask oil
+   - Backpack:
+     - A set of brown robes [^cloistered-scholar]
+     - a sack
+     - a backpack
+     - a bedroll
+     - a mess kit
+     - a tinderbox
+     - 10 torches
+     - 10 days of rations
+     - a waterskin
+     - A spellbook [^wizard]
+     - TODO Borrowed book on the subject of your current study [^cloistered-scholar]
+     - 50 feet of hempen rope
 
 ## Misc
 
@@ -156,7 +170,9 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 ## Features&Traits
 
-###### Character appearance
+### Character appearance
+
+Flossie is a 3ft tall wizened gnome with gray-brown skin, short greying curly hair, and sharp black eyes. She wears a simple brown robe and carries no weapons besides a staff. 
 
 | Feature | Description  |
 |---------|--------------|
@@ -165,9 +181,17 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 | Weight  | 22lbs        |
 | Eyes    | Black        |
 | Skin    | Gray-brown   |
-| Hair    | Gray, short, unkempt  |
+| Hair    | Gray, short, curly, unkempt  |
 
-###### Backstory
+### Story hooks
+
+#### Dangerous Secret
+Through sheer curiosity Flossie wishes to investigate the relatively new and unheard of Circle of the Scarlet Moon. She knows that they plan on lighting up a giant wicker statue, with the intent of "burning out the wicked spirits that permeate the area.
+
+#### Standing Offer
+Months ago, Flossie served as a guide for a band of mysterious pilgrims who set out to reoccupy the Sacred Stone Monastery. Her research leads her to infiltrate the group and discover their intentions. Perhaps she can discover hidden knowledge they sought in the library of the temple.
+
+#### Backstory
 TODO
 
 ## Spells
@@ -180,26 +204,26 @@ TODO
 | Spell save DC        | 8+prof+int mod |  |
 | Spell attack bonus   | prof+int mod   |  |
 
+### Cantrips
+  - Shape Water [^wizard]
+  - Firebolt (120ft ranged attack 1d10 [^wizard]
+  - Toll the Dead (60ft wis save or 1d8 necrotic, 1d12 if missing any hp) [^wizard]
+  - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc)[^forest-gnome]
+
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
   - Level 1:
-    - TODO
-    - TODO
-    - TODO
-    - TODO
-    - TODO
-    - TODO
-    - TODO
-    - TODO
+    - Absorb elements (react)
+    - Chromatic orb (90ft, acid/cold/fire/lightning/poison/thunder, ranged attack 3d8)
+    - Detect Magic (rit)
+    - Find Familiar (rit)
+    - Mage Armour
+    - Magic Missile
+    - Shield (react)
+    - Sleep
   - Level 2:
-    - TODO
-    - TODO
-
-### Cantrips
-  - TODO [^wizard]
-  - TODO [^wizard]
-  - TODO [^wizard]
-  - Minor illusion [^forest-gnome]
+    - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half)
+    - Phantasmal Force
 
 ### Slots
 
@@ -215,11 +239,12 @@ TODO
 
 [^cloistered-scholar]: Cloistered Scholar background
 [^wizard]: Wizard class
-[^TODO]: TODO subclass [^artificer]
+[^order-of-scribes] Order of Scribes subclass [^wizard]
 [^forest-gnome]: Rock gnome
 
 ## Familiars/companions
 
 ### Familiar
 
-TODO
+Tressym
+
