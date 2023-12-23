@@ -238,8 +238,8 @@ TODO
 ## Notes
 
 [^cloistered-scholar]: Cloistered Scholar background
-[^wizard]: Wizard class
 [^order-of-scribes] Order of Scribes subclass [^wizard]
+[^wizard]: Wizard class
 [^forest-gnome]: Rock gnome
 
 ## Familiars/companions
