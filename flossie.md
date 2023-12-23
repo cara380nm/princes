@@ -24,19 +24,18 @@
 |-----------------|------|:-----------------------------------------------------------------------------------------------|
 | Acrobatics      | Dex  |                                                                                                |
 | Animal Handling | Wis  |                                                                                                |
-| Arcana          | Int  | Proficient [^cloistered-scholar]                                                                        |
+| Arcana          | Int  | Proficient [^cloistered-scholar]                                                               |
 | Athletics       | Str  |                                                                                                |
 | Deception       | Cha  |                                                                                                |
-| History         | Int  | Proficient [^cloistered-scholar]
-                                               |
-| Insight         | Wis  | Proficient [^wizard]                                                                    |
+| History         | Int  | Proficient [^cloistered-scholar]                                                               |
+| Insight         | Wis  | Proficient [^wizard]                                                                           |
 | Intimidation    | Cha  |                                                                                                |
-| Investigation   | Int  | Proficient [^wizard]                                                                        |
+| Investigation   | Int  | Proficient [^wizard]                                                                           |
 | Medicine        | Wis  |                                                                                                |
 | Nature          | Int  |                                                                                                |
 | Perception      | Wis  |                                                                                                |
 | Performance     | Cha  |                                                                                                |
-| Persuasion      | Cha  |                                                                     |
+| Persuasion      | Cha  |                                                                                                |
 | Religion        | Int  |                                                                                                |
 | Slight of Hand  | Dex  |                                                                                                |
 | Stealth         | Dex  |                                                                                                |
