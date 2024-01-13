@@ -247,7 +247,19 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 ### Familiar
 
-TODO: Tressym
+Tressym, fey. Action to summon within 30ft or dismiss to pocket dimension. Rolls/uses own initiative. Cannot attack, but can use other actions. Always obeys. When within 100ft, can communicate telepathiclly. As action use its senses. Can deliver touch spells (uses my attack mod)
+
+AC 12. HP 5.
+Speed 40ft. Fly.
+Str:3 Dex:15 Con:10 Int:11 Wis:12 Cha:12
+Perception:+5 Stealth:+4
+Immune poison
+Darkvision 60ft
+Passive perception 15
+Understands common.
+Detect invisibility within 60ft
+Advantage perception vs smell
+The tressym can detect whether a substance is poisonous by taste, touch, or smell.
 
 ## Notes
 
