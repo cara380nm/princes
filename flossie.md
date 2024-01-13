@@ -108,7 +108,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |          0 |
-| GP |       1 |        208 |
+| GP |       1 |        198 |
 | EP |       2 |          0 |
 | SP |      10 |          3 |
 | CP |     100 |          6 |
@@ -139,6 +139,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Money pouch
      - Component pouch [^wizard]
      - Flask oil
+     - 5xThrowing daggers
    - Backpack:
      - A set of brown robes [^cloistered-scholar]
      - a sack
@@ -152,6 +153,14 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - A spellbook [^wizard]
      - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
      - 50 feet of hempen rope
+     - Party loot, not divided:
+       - GP: 18
+       - SP: 81
+       - CP: 103
+       - 3 x Scimitar
+       - Crossbow [axios carrying]
+       - Short bow [axios carrying]
+       - Short sword [axios carrying]
 
 ## Misc
 
