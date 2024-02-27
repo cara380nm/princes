@@ -70,7 +70,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 20        |     4   | 0                   |
+| 20        |     1   | 0                   |
 
 ## Abilities
 
@@ -154,8 +154,8 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
      - 50 feet of hempen rope
      - Party loot, not divided:
-       - GP: 20
-       - SP: 77
+       - GP: 100
+       - SP: 272
        - CP: 107
        - 3 x Scimitar
        - Crossbow [axios carrying]
@@ -163,6 +163,10 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - Short sword [axios carrying]
        - 2 broken short swords [axios carrying]
        - Rioth's journal entries
+       - Broken great axe
+       - 4 polished jet gems (50gp each)
+       - Wand of magic missiles
+       - Driftglobe
 
 ## Misc
 
