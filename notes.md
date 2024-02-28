@@ -18,4 +18,12 @@ Lance rock: winds, fog, lightning bolts.
 
 in cave: Orioths journal. killed 4 rats. put in jar with mead and drowned it? Journal 2 says he was apprenticed to a necromancer. J3: Master left. Decided to get an army of corpses. I'll be the Lord of Lance rock
 
+Killed Orioth. On return, after resting there was symbol of Cult of Howling Hatred left behind with fresh corpse in pit
+
+Corpse with roughly drawn map towards feathergale spire
+
+Caught two cult of howling hatred. They showed us hand signal.
+
+Aerisi Kalineoth is leader of howling hatred wind cult. Tall and slender moon elf with wings. Whispers and calls all noble subjects.
+
 

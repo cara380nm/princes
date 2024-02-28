@@ -11,7 +11,7 @@
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods    |
 | ----- | -------: | ---------: | -----:     | ----:   |
-| Int   | 18       | +4         | Proficient | Advantage to all int/wis/cha saves vs magic [^forest-gnome]   |
+| Int   | 20       | +5         | Proficient | Advantage to all int/wis/cha saves vs magic [^forest-gnome]   |
 | Con   | 14       | +2         | | |
 | Cha   | 14       | +2         |            | Advantage to all int/wis/cha saves vs magic [^forest-gnome]   |
 | Dex   | 14       | +2         |            | |
@@ -70,7 +70,7 @@
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 20        |     1   | 0                   |
+| 26        |     0   | 0                   |
 
 ## Abilities
 
@@ -167,6 +167,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - 4 polished jet gems (50gp each)
        - Wand of magic missiles
        - Driftglobe
+       - Daggers
 
 ## Misc
 
@@ -223,6 +224,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Firebolt (120ft ranged attack 1d10 [^wizard]
   - Toll the Dead (60ft wis save or 1d8 necrotic, 1d12 if missing any hp) [^wizard]
   - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc)[^forest-gnome]
+  - Mage hand
 
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
@@ -238,6 +240,8 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Level 2:
     - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half) *
     - Phantasmal Force *
+    - Mirror Image *
+    - Levitate *
 
 ### Slots
 
@@ -247,7 +251,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 #### Level 2
 
-  - :o: :o: Regular spells
+  - :o: :o: :o: Regular spells
 
 ## Familiars/companions
 
