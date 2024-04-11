@@ -1,45 +1,45 @@
 # Character
 
-| Name    | Background    | Race       | Type     | Size  | Alignment       | XP | Deity |
-|---------|---------------|------------|----------|-------|-----------------|----|---|
-| Flossie Gnoreen Scrollgargoyle Greengrass | Cloistered Scholar | Forest Gnome | Humanoid | Small | Lawful Neutral |    |  |
+| Name                                      | Background         | Race         | Type       | Size    | Alignment         | XP   | Deity |
+| ---------                                 | ---------------    | ------------ | ---------- | ------- | ----------------- | ---- | ---   |
+| Flossie Gnoreen Scrollgargoyle Greengrass | Cloistered Scholar | Forest Gnome | Humanoid   | Small   | Lawful Neutral    |      |       |
 
-| Class     | Subclass         | Level | HD  |
-|-----------|------------------|------:|-----|
-| Wizard    | Order of Scribes [^order-of-scribes] |    3 | 1d6 |
+| Class       | Subclass                             | Level   | HD    |
+| ----------- | ------------------                   | ------: | ----- |
+| Wizard      | Order of Scribes [^order-of-scribes] | 4       | 1d6   |
 
 ## Stats
-| Stat  | Value    | Mod        | Save       | Mods    |
-| ----- | -------: | ---------: | -----:     | ----:   |
-| Int   | 20       | +5         | Proficient | Advantage to all int/wis/cha saves vs magic [^forest-gnome]   |
-| Con   | 14       | +2         | | |
-| Cha   | 14       | +2         |            | Advantage to all int/wis/cha saves vs magic [^forest-gnome]   |
-| Dex   | 14       | +2         |            | |
-| Wis   | 12       | +1         | Proficient           | Advantage to all int/wis/cha saves vs magic [^forest-gnome]   |
-| Str   | 10       |  0         |            | |
+| Stat  | Value    | Mod        | Save       | Mods                                     |
+| ----- | -------: | ---------: | -----:     | ----:                                    |
+| Int   | 20       | +5         | Proficient | Advantage saves vs magic [^forest-gnome] |
+| Con   | 14       | +2         |            |                                          |
+| Cha   | 14       | +2         |            | Advantage saves vs magic [^forest-gnome] |
+| Dex   | 14       | +2         |            |                                          |
+| Wis   | 12       | +1         | Proficient | Advantage saves vs magic [^forest-gnome] |
+| Str   | 10       | 0          |            |                                          |
 
 ## Skills
 
-| Skill           | Stat | Notes                                                                                          |
-|-----------------|------|:-----------------------------------------------------------------------------------------------|
-| Acrobatics      | Dex  |                                                                                                |
-| Animal Handling | Wis  |                                                                                                |
-| Arcana          | Int  | Proficient [^cloistered-scholar]                                                               |
-| Athletics       | Str  |                                                                                                |
-| Deception       | Cha  |                                                                                                |
-| History         | Int  | Proficient [^cloistered-scholar]                                                               |
-| Insight         | Wis  | Proficient [^wizard]                                                                           |
-| Intimidation    | Cha  |                                                                                                |
-| Investigation   | Int  | Proficient [^wizard]                                                                           |
-| Medicine        | Wis  |                                                                                                |
-| Nature          | Int  |                                                                                                |
-| Perception      | Wis  |                                                                                                |
-| Performance     | Cha  |                                                                                                |
-| Persuasion      | Cha  |                                                                                                |
-| Religion        | Int  |                                                                                                |
-| Slight of Hand  | Dex  |                                                                                                |
-| Stealth         | Dex  |                                                                                                |
-| Survival        | Wis  |                                                                                                |
+| Skill             | Stat   | Notes                                |
+| ----------------- | ------ | :----------------------------------- |
+| Acrobatics        | Dex    |                                      |
+| Animal Handling   | Wis    |                                      |
+| Arcana            | Int    | Proficient [^cloistered-scholar]     |
+| Athletics         | Str    |                                      |
+| Deception         | Cha    |                                      |
+| History           | Int    | Proficient [^cloistered-scholar]     |
+| Insight           | Wis    | Proficient [^wizard]                 |
+| Intimidation      | Cha    |                                      |
+| Investigation     | Int    | Proficient [^wizard]                 |
+| Medicine          | Wis    |                                      |
+| Nature            | Int    |                                      |
+| Perception        | Wis    |                                      |
+| Performance       | Cha    |                                      |
+| Persuasion        | Cha    |                                      |
+| Religion          | Int    |                                      |
+| Slight of Hand    | Dex    |                                      |
+| Stealth           | Dex    |                                      |
+| Survival          | Wis    |                                      |
 
 ## Other Proficiencies & Languages
 
@@ -60,17 +60,17 @@
 
 ### Tools
 
-| Field              |              Value |
-|--------------------|-------------------:|
-| Proficiency bonus  |                 +2 |
-| AC                 |           10+2 dex |
-| Initiative         |             +2 dex |
-| Walking Speed      | 25ft [^forest-gnome] |
-| Passive perception |           10+2 wis |
+| Field                | Value                |
+| -------------------- | -------------------: |
+| Proficiency bonus    | +2                   |
+| AC                   | 10+2 dex             |
+| Initiative           | +2 dex               |
+| Walking Speed        | 25ft [^forest-gnome] |
+| Passive perception   | 10+2 wis             |
 
-| Hitpoints | Lost HP | Temporary Hitpoints |
-|-----------|---------|---------------------|
-| 26        |     0   | 0                   |
+| Hitpoints   | Lost HP   | Temporary Hitpoints   |
+| ----------- | --------- | --------------------- |
+| 26          | 0         | 0                     |
 
 ## Abilities
 
@@ -105,13 +105,13 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 ## Money
 
-|    | 1 GP is | Coins held |
-|----|--------:|-----------:|
-| PP |    1/10 |          0 |
-| GP |       1 |        198 |
-| EP |       2 |          0 |
-| SP |      10 |          2 |
-| CP |     100 |          6 |
+|      | 1 GP is   | Coins held   |
+| ---- | --------: | -----------: |
+| PP   | 1/10      | 0            |
+| GP   | 1         | 148          |
+| EP   | 2         | 0            |
+| SP   | 10        | 2            |
+| CP   | 100       | 6            |
 
 ## Equipment
 
@@ -154,20 +154,33 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
      - 50 feet of hempen rope
      - Party loot, not divided:
-       - GP: 100
-       - SP: 272
-       - CP: 107
-       - 3 x Scimitar
-       - Crossbow [axios carrying]
-       - Short bow [axios carrying]
-       - Short sword [axios carrying]
-       - 2 broken short swords [axios carrying]
+       - GP: 215
+       - SP: 7
        - Rioth's journal entries
-       - Broken great axe
        - 4 polished jet gems (50gp each)
-       - Wand of magic missiles
-       - Driftglobe
-       - Daggers
+       - Lord of Lance Rock's spellbook
+         - Level 1:
+           - False Life
+           - Ray of Sickness
+           - Cause Fear
+           - Alarm
+           - Burning Hands
+           - Charm Person
+           - Chromatic Orb
+         - Level 2:
+           - Arcane Lock
+           - Blindness/Deafness
+           - Gentle Repose
+           - Alter Self
+           - Arcane Lock
+           - Blur
+           - Cloud of Daggers
+         - Level 3:
+           - Animate Dead
+           - Bestow Curse
+           - Blink
+           - Clairvoyance
+           - Counterspell
 
 ## Misc
 
@@ -189,14 +202,14 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 Flossie is a 3ft tall wizened gnome with gray-brown skin, short greying curly hair, and sharp black eyes. She wears a simple brown robe and carries no weapons besides a staff. 
 
-| Feature | Description  |
-|---------|--------------|
-| Age     | 299          |
-| Height  | 3ft          |
-| Weight  | 22lbs        |
-| Eyes    | Black        |
-| Skin    | Gray-brown   |
-| Hair    | Gray, short, curly, unkempt  |
+| Feature   | Description                 |
+| --------- | --------------              |
+| Age       | 299                         |
+| Height    | 3ft                         |
+| Weight    | 22lbs                       |
+| Eyes      | Black                       |
+| Skin      | Gray-brown                  |
+| Hair      | Gray, short, curly, unkempt |
 
 ### Story hooks
 
@@ -213,11 +226,11 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 ### Wizard [^wizard]
 
-| Feature              | Value          | Mods  |
-|----------------------|----------------|-------|
-| Spellcasting ability | Int            |  |
-| Spell save DC        | 8+prof+int mod |  |
-| Spell attack bonus   | prof+int mod   |  |
+| Feature                | Value            | Mods    |
+| ---------------------- | ---------------- | ------- |
+| Spellcasting ability   | Int              |         |
+| Spell save DC          | 8+prof+int mod   |         |
+| Spell attack bonus     | prof+int mod     |         |
 
 ### Cantrips
   - Shape Water [^wizard]
@@ -230,6 +243,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   Asterisk denotes memorised (int mod + wiz level)
   - Level 1:
     - Absorb elements (react) *
+    - Alarm
     - Chromatic orb (90ft, acid/cold/fire/lightning/poison/thunder, ranged attack 3d8)
     - Detect Magic (rit)
     - Find Familiar (rit)
