@@ -139,7 +139,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Money pouch
      - Component pouch [^wizard]
      - Flask oil
-     - 5xThrowing daggers
+     - 4xThrowing daggers
    - Backpack:
      - A set of brown robes [^cloistered-scholar]
      - a sack

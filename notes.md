@@ -54,4 +54,10 @@ The delgates travelled from west bridge to belliard and crossed the stone bridge
 
 We continue to feathergale spire. Haunted keep inhabited by feathergale society, waterdavian arial mount enthusiasts. "The Feathergale knights"
 
+On the way to the Stone Monastry we found a corpse which was attacked by wild animals. It was carrying a coded note: "ask for hellenrae and they will know youre with the earth cult". Delegate had robe and gargoyle mask.
 
+Urnrayle signature on two of the gargoyle statues in the garden of stone monastry.
+
+Bruldenthar is part of the delegation. The earth cult attacked south of beliard. Air cult attacked and captured Deseyna Norvael. Other Captives ferried to stone monastry. Sages books were used as payment with the pirates to cross desarin river. Rhundorth and Teresiel were taken below to an unknown fate. Jorth in the guardroom carries the keys to the pens.
+
+Overheard in stone monestry kitchen: Renwick is a lich. Doesn't like cult and is not a part.
