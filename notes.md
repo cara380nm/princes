@@ -61,3 +61,13 @@ Urnrayle signature on two of the gargoyle statues in the garden of stone monastr
 Bruldenthar is part of the delegation. The earth cult attacked south of beliard. Air cult attacked and captured Deseyna Norvael. Other Captives ferried to stone monastry. Sages books were used as payment with the pirates to cross desarin river. Rhundorth and Teresiel were taken below to an unknown fate. Jorth in the guardroom carries the keys to the pens.
 
 Overheard in stone monestry kitchen: Renwick is a lich. Doesn't like cult and is not a part.
+
+We killed the orog guards downstairs. M16 is where renwick is (according to a freed prisoner)
+
+Chief lieutenant upstairs is helenrae. Lost her sight as child. Bitter angry very into cult. Wears golden gargoyle mask with no eye holes. Barely tolerates other black earth cultists.
+
+Marlos urnrayle is other leader. He is the earth prophet of elemental evil. Has mask encrusted with jewels. He is a medusa.
+
+Used orog's key to get downstairs. A bridge with gargoyles on it. They didn't attack when we made the triangle gesture
+
+

@@ -6,7 +6,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 4       | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 5       | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -62,7 +62,7 @@
 
 | Field                | Value                |
 | -------------------- | -------------------: |
-| Proficiency bonus    | +2                   |
+| Proficiency bonus    | +3                   |
 | AC                   | 10+2 dex             |
 | Initiative           | +2 dex               |
 | Walking Speed        | 25ft [^forest-gnome] |
@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 26          | 0         | 0                     |
+| 32          | 0         | 0                     |
 
 ## Abilities
 
@@ -108,9 +108,9 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 0            |
-| GP   | 1         | 148          |
+| GP   | 1         | 44           |
 | EP   | 2         | 0            |
-| SP   | 10        | 2            |
+| SP   | 10        | 7            |
 | CP   | 100       | 6            |
 
 ## Equipment
@@ -140,47 +140,49 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Component pouch [^wizard]
      - Flask oil
      - 4xThrowing daggers
-   - Backpack:
-     - A set of brown robes [^cloistered-scholar]
-     - a sack
-     - a backpack
-     - a bedroll
-     - a mess kit
-     - a tinderbox
-     - 10 torches
-     - 10 days of rations
-     - a waterskin
-     - A spellbook [^wizard]
-     - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
-     - 50 feet of hempen rope
-     - Party loot, not divided:
-       - GP: 215
-       - SP: 7
-       - Rioth's journal entries
-       - 4 polished jet gems (50gp each)
-       - Lord of Lance Rock's spellbook
-         - Level 1:
-           - False Life
-           - Ray of Sickness
-           - Cause Fear
-           - Alarm
-           - Burning Hands
-           - Charm Person
-           - Chromatic Orb
-         - Level 2:
-           - Arcane Lock
-           - Blindness/Deafness
-           - Gentle Repose
-           - Alter Self
-           - Arcane Lock
-           - Blur
-           - Cloud of Daggers
-         - Level 3:
-           - Animate Dead
-           - Bestow Curse
-           - Blink
-           - Clairvoyance
-           - Counterspell
+ - Backpack:
+   - A set of brown robes [^cloistered-scholar]
+   - a sack
+   - a backpack
+   - a bedroll
+   - a mess kit
+   - a tinderbox
+   - 10 torches
+   - 10 days of rations
+   - a waterskin
+   - A spellbook [^wizard]
+   - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
+   - 50 feet of hempen rope
+   - Jorth key from stone monastry
+ - Party loot, not divided:
+   - 3 Greataxe
+   - 6 Javalins
+   - SP: 7
+   - Rioth's journal entries
+   - 4 polished jet gems (50gp each)
+   - Lord of Lance Rock's spellbook
+     - Level 1:
+       - False Life
+       - Ray of Sickness
+       - Cause Fear
+       - Alarm
+       - Burning Hands
+       - Charm Person
+       - Chromatic Orb
+     - Level 2:
+       - Arcane Lock
+       - Blindness/Deafness
+       - Gentle Repose
+       - Alter Self
+       - Arcane Lock
+       - Blur
+       - Cloud of Daggers
+     - Level 3:
+       - Animate Dead
+       - Bestow Curse
+       - Blink
+       - Clairvoyance
+       - Counterspell
 
 ## Misc
 
@@ -241,7 +243,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
-  - Level 1:
+  - Level 1 (Types covered: acid cold fire force lightning poison thunder):
     - Absorb elements (react) *
     - Alarm
     - Chromatic orb (90ft, acid/cold/fire/lightning/poison/thunder, ranged attack 3d8)
@@ -250,12 +252,16 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Mage Armour *
     - Magic Missile *
     - Shield (react) *
-    - Sleep *
-  - Level 2:
+    - Sleep
+  - Level 2 (Types covered: acid cold fire lightning poison psychic):
     - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half) *
     - Phantasmal Force *
     - Mirror Image *
     - Levitate *
+  - Level 3 (Types covered: fire psychic necrotic):
+    - Fireball *
+    - Intellect Fortress *
+    - Bestow Curse
 
 ### Slots
 
@@ -266,6 +272,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 #### Level 2
 
   - :o: :o: :o: Regular spells
+
+#### Level 3
+  - :o: :o: Regular spells
 
 ## Familiars/companions
 
