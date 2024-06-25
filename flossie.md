@@ -158,6 +158,10 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - 3 Greataxe
    - 6 Javalins
    - SP: 7
+   - CP: 2900
+   - EP: 130
+   - Ivory statue of elephant
+   - Pair of gold bracelets
    - Rioth's journal entries
    - 4 polished jet gems (50gp each)
    - Lord of Lance Rock's spellbook

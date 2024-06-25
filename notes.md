@@ -1,5 +1,5 @@
 corvyn - dom
-dakota - kelly
+dromeg - kelly
 axios - jolly
 methos - jack
 elerach - charlene
@@ -69,5 +69,13 @@ Chief lieutenant upstairs is helenrae. Lost her sight as child. Bitter angry ver
 Marlos urnrayle is other leader. He is the earth prophet of elemental evil. Has mask encrusted with jewels. He is a medusa.
 
 Used orog's key to get downstairs. A bridge with gargoyles on it. They didn't attack when we made the triangle gesture
+
+Narthurm the burrow shark, Bullette was called Oggy, was the guard at B3. Hobgoblins called Jack, Durge, Cecil and Pete. Dwergurs in B5. B7 is where 'we' sleep.
+
+Miraj Vizann is in black and white robes. Doing things in room with dwarf statues in B8
+
+Norbs run keep out
+
+Brug's run norb is stupid
 
 
