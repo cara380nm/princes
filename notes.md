@@ -74,8 +74,14 @@ Narthurm the burrow shark, Bullette was called Oggy, was the guard at B3. Hobgob
 
 Miraj Vizann is in black and white robes. Doing things in room with dwarf statues in B8
 
-Norbs run keep out
+Ettin in B12. Norbs run keep out. Brug's run norb is stupid.
 
-Brug's run norb is stupid
+B15 is a forge with a Dao and underdwarfs. We killed former guard and torturer. We know there are ogres in B16 guarding other temple connection
 
+Rucklemuth glitterstone was rescued from B23. Marlos is in a cave to the north east (likely B22). Elemental nodes were created by cultists in the caves below. Could be source of the elemental powers.
 
+Scarlen glitterstone missing in "the fane" below.
+
+B19 is a statue (of an elemental prince), in the rubble of an old statue.
+
+B21, filled with statues, which are obvious petrifications.

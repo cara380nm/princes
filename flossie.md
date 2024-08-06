@@ -6,7 +6,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 5       | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 6       | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 32          | 0         | 0                     |
+| 38          | 0         | 0                     |
 
 ## Abilities
 
@@ -97,6 +97,13 @@ As a bonus action can create a tiny quill. Writes in chosen colour without ink. 
 ### Arcane recovery
  * Once a day after a short rest can recover expended slots under level 5 with combined level no more than half of wizard level (rounded up).
 
+### Manifest Mind
+ * Bonus action to manifest spectral book. or move it 30ft to a space I or it can see
+ * Book sheds dim 10ft light, can hear/see, darkvis 60ft, telepathy with me
+ * Can cast spells using its space/senses, prof bonus number of times per day
+ * Passes through creatures, but not objects. It vanishes if passing more than 300ft away.
+ * Resummoning costs a spell slot.
+
 ### Cantrip Formulas
 Each day can replace one wizard cantrip
 
@@ -107,8 +114,8 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 0            |
-| GP   | 1         | 44           |
+| PP   | 1/10      | 4            |
+| GP   | 1         | 34           |
 | EP   | 2         | 0            |
 | SP   | 10        | 7            |
 | CP   | 100       | 6            |
@@ -142,13 +149,12 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - 4xThrowing daggers
  - Backpack:
    - A set of brown robes [^cloistered-scholar]
-   - a sack
    - a backpack
    - a bedroll
    - a mess kit
    - a tinderbox
    - 10 torches
-   - 10 days of rations
+   - 9 days of rations
    - a waterskin
    - A spellbook [^wizard]
    - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
@@ -157,9 +163,14 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
  - Party loot, not divided:
    - 3 Greataxe
    - 6 Javalins
-   - SP: 7
+   - SP: 1337
    - CP: 2900
    - EP: 130
+   - Flying dragon tapestry worth 400GP
+   - Carved lyre worth 250GP
+   - Embroidered silk robe worth 80GP
+   - Suit of elven chain
+   - 6 azurites 110 gp each
    - Ivory statue of elephant
    - Pair of gold bracelets
    - Rioth's journal entries
@@ -258,14 +269,18 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Shield (react) *
     - Sleep
   - Level 2 (Types covered: acid cold fire lightning poison psychic):
-    - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half) *
+    - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half)
     - Phantasmal Force *
     - Mirror Image *
     - Levitate *
   - Level 3 (Types covered: fire psychic necrotic):
+    - Animate Dead
+    - Bestow Curse *
+    - Counterspell
+    - Dispel Magic *
     - Fireball *
-    - Intellect Fortress *
-    - Bestow Curse
+    - Intellect Fortress
+    - Hypnotic Pattern *
 
 ### Slots
 
@@ -278,7 +293,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - :o: :o: :o: Regular spells
 
 #### Level 3
-  - :o: :o: Regular spells
+  - :o: :o: :o: Regular spells
 
 ## Familiars/companions
 
