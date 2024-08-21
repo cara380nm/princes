@@ -63,14 +63,14 @@
 | Field                | Value                |
 | -------------------- | -------------------: |
 | Proficiency bonus    | +3                   |
-| AC                   | 10+2 dex             |
+| AC                   | 14+2 dex             |
 | Initiative           | +2 dex               |
 | Walking Speed        | 25ft [^forest-gnome] |
 | Passive perception   | 10+2 wis             |
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 38          | 0         | 0                     |
+| 38          | 8         | 0                     |
 
 ## Abilities
 
@@ -115,7 +115,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 4            |
-| GP   | 1         | 34           |
+| GP   | 1         | 14           |
 | EP   | 2         | 0            |
 | SP   | 10        | 7            |
 | CP   | 100       | 6            |
@@ -126,6 +126,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - George the quarterstaff 1d8 [^wizard]
    - Sturdy boots
    - Leather overtunic
+      - Elven chain +1, medium armor, always considered proficient. 14+dex (max 2) AC. No stealth penalty
    - Cloth skirt with pockets
       - Flask of Brandy
       - 1x Dagger 1d4 (concealed in a garter)
@@ -145,6 +146,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - Chalk
      - Money pouch
      - Component pouch [^wizard]
+       - 50 GP diamond
      - Flask oil
      - 4xThrowing daggers
  - Backpack:
@@ -163,9 +165,12 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
  - Party loot, not divided:
    - 3 Greataxe
    - 6 Javalins
-   - SP: 1337
+   - SP: 1747
    - CP: 2900
-   - EP: 130
+   - EP: 270
+   - 1xFull plate
+   - Pouch with 6 obsideon flakes worth 10GP each
+   - Potion of water breathing
    - Flying dragon tapestry worth 400GP
    - Carved lyre worth 250GP
    - Embroidered silk robe worth 80GP
@@ -198,6 +203,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - Blink
        - Clairvoyance
        - Counterspell
+  - 3 Diamonds worth 50GP each
 
 ## Misc
 
@@ -251,8 +257,8 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 ### Cantrips
   - Shape Water [^wizard]
-  - Firebolt (120ft ranged attack 1d10 [^wizard]
-  - Toll the Dead (60ft wis save or 1d8 necrotic, 1d12 if missing any hp) [^wizard]
+  - Firebolt (120ft ranged attack 2d10 [^wizard]
+  - Toll the Dead (60ft wis save or 2d8 necrotic, 2d12 if missing any hp) [^wizard]
   - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc)[^forest-gnome]
   - Mage hand
 
@@ -264,7 +270,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Chromatic orb (90ft, acid/cold/fire/lightning/poison/thunder, ranged attack 3d8)
     - Detect Magic (rit)
     - Find Familiar (rit)
-    - Mage Armour *
+    - Mage Armour
     - Magic Missile *
     - Shield (react) *
     - Sleep
@@ -276,7 +282,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Level 3 (Types covered: fire psychic necrotic):
     - Animate Dead
     - Bestow Curse *
-    - Counterspell
+    - Counterspell *
     - Dispel Magic *
     - Fireball *
     - Intellect Fortress

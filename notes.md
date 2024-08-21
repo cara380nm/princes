@@ -76,12 +76,16 @@ Miraj Vizann is in black and white robes. Doing things in room with dwarf statue
 
 Ettin in B12. Norbs run keep out. Brug's run norb is stupid.
 
-B15 is a forge with a Dao and underdwarfs. We killed former guard and torturer. We know there are ogres in B16 guarding other temple connection
+B15 is a forge with a Dao and underdwarfs. We killed former guard and torturer B14. We know there are ogres in B16 guarding other temple connection
 
-Rucklemuth glitterstone was rescued from B23. Marlos is in a cave to the north east (likely B22). Elemental nodes were created by cultists in the caves below. Could be source of the elemental powers.
+Rucklemuth glitterstone was rescued from B23 (pit with black pudding). Marlos is in a cave to the north east (likely B22). Elemental nodes were created by cultists in the caves below. Could be source of the elemental powers.
 
 Scarlen glitterstone missing in "the fane" below.
 
 B19 is a statue (of an elemental prince), in the rubble of an old statue.
 
 B21, filled with statues, which are obvious petrifications.
+
+We killed the medusa, Marlos. A shadow demon escaped somewhere to the north.
+
+Went to sleep in room 23, then killed stonemelder in B6 (who tried to bargain with info on guy in B8), and zombied other two in B6. Killed 5 cultists in B20
