@@ -6,7 +6,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 6       | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 7       | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 38          | 8         | 0                     |
+| 44          | 0         | 0                     |
 
 ## Abilities
 
@@ -114,14 +114,15 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 4            |
-| GP   | 1         | 14           |
+| PP   | 1/10      | 17           |
+| GP   | 1         | 240          |
 | EP   | 2         | 0            |
-| SP   | 10        | 7            |
-| CP   | 100       | 6            |
+| SP   | 10        | 168          |
+| CP   | 100       | 7            |
 
 ## Equipment
 
+ - Claws of the Umber Hulk (attuned)
  - Clothing:
    - George the quarterstaff 1d8 [^wizard]
    - Sturdy boots
@@ -149,6 +150,9 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - 50 GP diamond
      - Flask oil
      - 4xThrowing daggers
+     - Scroll of Haste
+     - Scroll of Snillocs Snowball Swarm
+     - Scroll of Invisibility
  - Backpack:
    - A set of brown robes [^cloistered-scholar]
    - a backpack
@@ -163,23 +167,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - 50 feet of hempen rope
    - Jorth key from stone monastry
  - Party loot, not divided:
-   - 3 Greataxe
-   - 6 Javalins
-   - SP: 1747
-   - CP: 2900
-   - EP: 270
-   - 1xFull plate
-   - Pouch with 6 obsideon flakes worth 10GP each
-   - Potion of water breathing
-   - Flying dragon tapestry worth 400GP
-   - Carved lyre worth 250GP
-   - Embroidered silk robe worth 80GP
-   - Suit of elven chain
-   - 6 azurites 110 gp each
-   - Ivory statue of elephant
-   - Pair of gold bracelets
    - Rioth's journal entries
-   - 4 polished jet gems (50gp each)
    - Lord of Lance Rock's spellbook
      - Level 1:
        - False Life
@@ -203,7 +191,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - Blink
        - Clairvoyance
        - Counterspell
-  - 3 Diamonds worth 50GP each
+  - Key (to area of the sacred stone monastry - room 17)
 
 ## Misc
 
@@ -287,6 +275,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Fireball *
     - Intellect Fortress
     - Hypnotic Pattern *
+  - Level 4 (Types covered: radiant):
+    - Otiluke’s Resilient Sphere *
+    - Sickening Radiance
 
 ### Slots
 
@@ -300,6 +291,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 #### Level 3
   - :o: :o: :o: Regular spells
+
+#### Level 4
+  - :o: Regular spells
 
 ## Familiars/companions
 

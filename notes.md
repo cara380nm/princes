@@ -89,3 +89,18 @@ B21, filled with statues, which are obvious petrifications.
 We killed the medusa, Marlos. A shadow demon escaped somewhere to the north.
 
 Went to sleep in room 23, then killed stonemelder in B6 (who tried to bargain with info on guy in B8), and zombied other two in B6. Killed 5 cultists in B20
+
+Weird dreams or some shit.
+
+"Hear me well, you have offended the elder elemental eye. Others shall be punished"
+
+Helenrae (mask without eyeholes) and two golems in B13.
+
+Genie in B15 gave up and let us take Gloves of Ember Hulk
+
+Killed B8 mud sorceror guy.
+
+Lich was called Renwick. Was actually okay. Let me access spells. Gave amulet to Corvyn who remembered him from legend as a veteran of the troll war. Renwick was an unwilling lich subject
+
+Return to red larch. Belliard (adjacent town) was destroyed. A group of cultists were walking with a large spherical object.
+
