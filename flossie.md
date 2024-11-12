@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 44          | 0         | 0                     |
+| 44          | 11        | 0                     |
 
 ## Abilities
 
@@ -114,8 +114,8 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 17           |
-| GP   | 1         | 240          |
+| PP   | 1/10      | 2            |
+| GP   | 1         | 395          |
 | EP   | 2         | 0            |
 | SP   | 10        | 168          |
 | CP   | 100       | 7            |
@@ -150,9 +150,6 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - 50 GP diamond
      - Flask oil
      - 4xThrowing daggers
-     - Scroll of Haste
-     - Scroll of Snillocs Snowball Swarm
-     - Scroll of Invisibility
  - Backpack:
    - A set of brown robes [^cloistered-scholar]
    - a backpack
@@ -166,7 +163,10 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - Borrowed book on the subject of your current study [^cloistered-scholar] - Temple of the sacred moon
    - 50 feet of hempen rope
    - Jorth key from stone monastry
+   - scroll of skywrite.
  - Party loot, not divided:
+   - Thurle ring 250GP
+   - scroll of beast bond
    - Rioth's journal entries
    - Lord of Lance Rock's spellbook
      - Level 1:
@@ -267,6 +267,8 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Phantasmal Force *
     - Mirror Image *
     - Levitate *
+    - Invisibility
+    - Snillocs Snowball Swarm
   - Level 3 (Types covered: fire psychic necrotic):
     - Animate Dead
     - Bestow Curse *
@@ -275,6 +277,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Fireball *
     - Intellect Fortress
     - Hypnotic Pattern *
+    - Haste
   - Level 4 (Types covered: radiant):
     - Otiluke’s Resilient Sphere *
     - Sickening Radiance

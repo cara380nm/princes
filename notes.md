@@ -104,3 +104,19 @@ Lich was called Renwick. Was actually okay. Let me access spells. Gave amulet to
 
 Return to red larch. Belliard (adjacent town) was destroyed. A group of cultists were walking with a large spherical object.
 
+Went to Feathergale spire. Saw cage with person.
+
+Party played as being under "Lord Timblewart".
+
+S10. Letter addressed to Thurl Merolsska on desk in spire from Aerisi Kalineoth saying they are pleased about outcome with altercation vs black earth and Thurl's capture of a prisoner (noble from waterdeep. They will interrogate further). Keep close watch on sacred stone monastry. Signed your queen.
+
+
+Spyglass is pointing towards a dead body on the ground (cage person), and some knights are clearing up the mess.
+
+A hooded figure can be seen entering concealed door in knifepoint gully.
+
+Feast in spire. Killed manticore.
+
+They invited to let us join, but then were about to throw two water cult folk off the roof. Savra died. Thurl et all were imprisoned.
+
+Shield of faith, mirror image still active
