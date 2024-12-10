@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 44          | 11        | 0                     |
+| 44          | 0         | 0                     |
 
 ## Abilities
 
@@ -115,7 +115,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 2            |
-| GP   | 1         | 395          |
+| GP   | 1         | 396          |
 | EP   | 2         | 0            |
 | SP   | 10        | 168          |
 | CP   | 100       | 7            |
