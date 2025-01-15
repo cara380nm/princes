@@ -6,7 +6,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 8       | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 9       | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -62,7 +62,7 @@
 
 | Field                | Value                |
 | -------------------- | -------------------: |
-| Proficiency bonus    | +3                   |
+| Proficiency bonus    | +4                   |
 | AC                   | 14+2 dex             |
 | Initiative           | +2 dex               |
 | Walking Speed        | 25ft [^forest-gnome] |
@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 50          | 0         | 0                     |
+| 56          | 0         | 0                     |
 
 ## Abilities
 
@@ -313,6 +313,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Sickening Radiance
     - Summon Elemental *
     - Charm Monster
+  - Level 5 (Types covered: ):
+    - TODO *
+    - TODO
 
 ### Slots
 
