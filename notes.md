@@ -119,4 +119,12 @@ Feast in spire. Killed manticore.
 
 They invited to let us join, but then were about to throw two water cult folk off the roof. Savra died. Thurl et all were imprisoned.
 
-Shield of faith, mirror image still active
+Killed everybody. Met gerry bird guy.
+
+Heading for knifepoint gulley.
+
+In temple of howling hatred. A1
+
+Prisoners from yartar released, and kenku guards killed. One prisoner was berrow gladham and his wife nerise was taken below. We tunneled out from A12 south. A djinn (Ahtayir) is bound is A15 to maintain the palace.
+
+Djinn told us Aerisi is in A18. Go to A19 and find aerisi. Killed her. Freed Djinn

@@ -6,7 +6,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 7       | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 8       | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -15,7 +15,7 @@
 | Con   | 14       | +2         |            |                                          |
 | Cha   | 14       | +2         |            | Advantage saves vs magic [^forest-gnome] |
 | Dex   | 14       | +2         |            |                                          |
-| Wis   | 12       | +1         | Proficient | Advantage saves vs magic [^forest-gnome] |
+| Wis   | 13       | +1         | Proficient | Advantage saves vs magic [^forest-gnome] |
 | Str   | 10       | 0          |            |                                          |
 
 ## Skills
@@ -70,7 +70,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 44          | 0         | 0                     |
+| 50          | 0         | 0                     |
 
 ## Abilities
 
@@ -107,6 +107,9 @@ As a bonus action can create a tiny quill. Writes in chosen colour without ink. 
 ### Cantrip Formulas
 Each day can replace one wizard cantrip
 
+### Telekinetic [^feat-telekinetic]
+As a bonus action shove a creature within 30ft. Str save or be moved 5ft away/towards.
+
 ## Researcher [^cloistered-scholar]
 When you attempt to learn or recall a piece of lore, if you do not know that information, you often know where and from whom you can obtain it
 
@@ -127,10 +130,10 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - George the quarterstaff 1d8 [^wizard]
    - Sturdy boots
    - Leather overtunic
-      - Elven chain +1, medium armor, always considered proficient. 14+dex (max 2) AC. No stealth penalty
+     - Elven chain +1, medium armor, always considered proficient. 14+dex (max 2) AC. No stealth penalty
    - Cloth skirt with pockets
-      - Flask of Brandy
-      - 1x Dagger 1d4 (concealed in a garter)
+     - Flask of Brandy
+     - 1x Dagger 1d4 (concealed in a garter)
    - Vest
    - Shirt
    - Cloak with several pockets
@@ -142,7 +145,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - Folded parchment
      - A small pouch
        - A quill
-       - A bottle of ink
+       - An empty bottle of ink
        - Small penknife
        - Chalk
      - Money pouch
@@ -164,6 +167,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - 50 feet of hempen rope
    - Jorth key from stone monastry
    - scroll of skywrite.
+   - Flask of bottled breath
  - Party loot, not divided:
    - Thurle ring 250GP
    - scroll of beast bond
@@ -191,7 +195,32 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - Blink
        - Clairvoyance
        - Counterspell
-  - Key (to area of the sacred stone monastry - room 17)
+   - Lord of Aerisi Kalinoth's spellbook
+     - Level 1:
+       - charm person
+       - feather fall
+       - mage armor
+       - thunderwave
+     - Level 2:
+       - dust devil
+       - gust of wind
+       - invisibility
+     - Level 3:
+       - fly
+       - gaseous form
+       - lightning bolt
+     - Level 4:
+       - ice storm
+       - storm sphere
+     - Level 5:
+       - cloudkill
+       - seeming
+     - Level 6:
+       - chain lightning
+   - Key (to area of the sacred stone monastry - room 17)
+   - Platinum Torc 1600 worth gold.
+   - 4 gold/sapphire rings worth 1000 gold each
+   - Diadem worth 6400 gold
 
 ## Misc
 
@@ -248,7 +277,8 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Firebolt (120ft ranged attack 2d10 [^wizard]
   - Toll the Dead (60ft wis save or 2d8 necrotic, 2d12 if missing any hp) [^wizard]
   - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc)[^forest-gnome]
-  - Mage hand
+  - Mage hand[^feat-telekinetic]
+  - Mind Sliver (60ft, int save or 2d6 psychic and -1d4 to next save within a turn) [^wizard]
 
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
@@ -281,6 +311,8 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Level 4 (Types covered: radiant):
     - Otiluke’s Resilient Sphere *
     - Sickening Radiance
+    - Summon Elemental *
+    - Charm Monster
 
 ### Slots
 
@@ -296,7 +328,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - :o: :o: :o: Regular spells
 
 #### Level 4
-  - :o: Regular spells
+  - :o: :o: Regular spells
 
 ## Familiars/companions
 
@@ -322,5 +354,6 @@ The tressym can detect whether a substance is poisonous by taste, touch, or smel
 [^order-of-scribes]: Order of Scribes subclass [^wizard]
 [^wizard]: Wizard class
 [^forest-gnome]: Rock gnome
+[^feat-telekinetic]: Telekinetic Feat
 
 
