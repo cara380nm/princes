@@ -221,6 +221,9 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - Platinum Torc 1600 worth gold.
    - 4 gold/sapphire rings worth 1000 gold each
    - Diadem worth 6400 gold
+   - 81 gold
+   - 3x ruby 50 each
+   - 23 funarary masks worth 50 gp each.
 
 ## Misc
 
@@ -313,9 +316,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Sickening Radiance
     - Summon Elemental *
     - Charm Monster
-  - Level 5 (Types covered: ):
-    - TODO *
-    - TODO
+  - Level 5 (Types covered: bludgeoning slashing piercing):
+    - Animate Objects *
+    - Geas
 
 ### Slots
 
@@ -331,7 +334,10 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - :o: :o: :o: Regular spells
 
 #### Level 4
-  - :o: :o: Regular spells
+  - :o: :o: :o: Regular spells
+
+#### Level 5
+  - :o: Regular spells
 
 ## Familiars/companions
 

@@ -128,3 +128,9 @@ In temple of howling hatred. A1
 Prisoners from yartar released, and kenku guards killed. One prisoner was berrow gladham and his wife nerise was taken below. We tunneled out from A12 south. A djinn (Ahtayir) is bound is A15 to maintain the palace.
 
 Djinn told us Aerisi is in A18. Go to A19 and find aerisi. Killed her. Freed Djinn
+
+Killed guard said they were going to go work in riverguard keep. Grimjaw is a worker there.
+
+Met crazy cloaker looking for shinies
+
+
