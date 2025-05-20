@@ -133,4 +133,6 @@ Killed guard said they were going to go work in riverguard keep. Grimjaw is a wo
 
 Met crazy cloaker looking for shinies
 
+Went down worm tunnel into Fain of the Eye. Broke some glass globe thingy in F3 which made whirlwind and flying swords happen. Killed harpies in F4
 
+Explored F5 - misty, noises. Rust monsters. Chained idiots. Went up F6 stairs to Temple of Crushing Wave C28. Walk past mozaloth with 3 questions. People sleeping in C27

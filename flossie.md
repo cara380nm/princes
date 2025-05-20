@@ -1,5 +1,6 @@
 # Character
 
+
 | Name                                      | Background         | Race         | Type       | Size    | Alignment         | XP   | Deity |
 | ---------                                 | ---------------    | ------------ | ---------- | ------- | ----------------- | ---- | ---   |
 | Flossie Gnoreen Scrollgargoyle Greengrass | Cloistered Scholar | Forest Gnome | Humanoid   | Small   | Lawful Neutral    |      |       |
@@ -104,6 +105,8 @@ As a bonus action can create a tiny quill. Writes in chosen colour without ink. 
  * Passes through creatures, but not objects. It vanishes if passing more than 300ft away.
  * Resummoning costs a spell slot.
 
+("Myrtyl" the sage)
+
 ### Cantrip Formulas
 Each day can replace one wizard cantrip
 
@@ -118,9 +121,9 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 2            |
-| GP   | 1         | 396          |
+| GP   | 1         | 731          |
 | EP   | 2         | 0            |
-| SP   | 10        | 168          |
+| SP   | 10        | 174          |
 | CP   | 100       | 7            |
 
 ## Equipment
@@ -154,6 +157,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Flask oil
      - 4xThrowing daggers
  - Backpack:
+   - Position of superior healing
    - A set of brown robes [^cloistered-scholar]
    - a backpack
    - a bedroll
@@ -169,6 +173,11 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - scroll of skywrite.
    - Flask of bottled breath
  - Party loot, not divided:
+   - 6 Agates worth 10gp each
+   - Necklace of fireball 5 charges
+   - Basic light crossbow
+   - Mace
+   - Full plate armour
    - Thurle ring 250GP
    - scroll of beast bond
    - Rioth's journal entries
@@ -217,13 +226,26 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - seeming
      - Level 6:
        - chain lightning
+   - Skyweaver book
+     - Level 1:
+       - feather fall
+       - mage armor
+       - witch bolt
+     - Level 2:
+       - gust of wind
+       - invisibility
+     - Level 3:
+       - fly
+       - lightning bolt
    - Key (to area of the sacred stone monastry - room 17)
    - Platinum Torc 1600 worth gold.
    - 4 gold/sapphire rings worth 1000 gold each
    - Diadem worth 6400 gold
-   - 81 gold
    - 3x ruby 50 each
    - 23 funarary masks worth 50 gp each.
+   - Gold bracelet worth 50GP
+   - Silver Ewer 10GP
+   - Pair of skull earrings 10 GP each
 
 ## Misc
 
@@ -314,8 +336,8 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Level 4 (Types covered: radiant):
     - Otiluke’s Resilient Sphere *
     - Sickening Radiance
-    - Summon Elemental *
-    - Charm Monster
+    - Summon Elemental
+    - Charm Monster *
   - Level 5 (Types covered: bludgeoning slashing piercing):
     - Animate Objects *
     - Geas
