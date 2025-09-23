@@ -7,7 +7,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 9       | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 10      | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -71,7 +71,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 56          | 0         | 0                     |
+| 62          | 0         | 0                     |
 
 ## Abilities
 
@@ -107,6 +107,11 @@ As a bonus action can create a tiny quill. Writes in chosen colour without ink. 
 
 ("Myrtyl" the sage)
 
+### Master Scriviner
+After a long rest can create a scroll (expires after cast or next long rest) of any 1 action spell of 1st/2nd in book. It is upcast by 1 level.
+
+Gold/time for scribing scrolls are halved.
+
 ### Cantrip Formulas
 Each day can replace one wizard cantrip
 
@@ -120,10 +125,10 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
-| PP   | 1/10      | 2            |
-| GP   | 1         | 731          |
+| PP   | 1/10      | 5            |
+| GP   | 6         | 879          |
 | EP   | 2         | 0            |
-| SP   | 10        | 174          |
+| SP   | 10        | 210          |
 | CP   | 100       | 7            |
 
 ## Equipment
@@ -226,6 +231,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
        - seeming
      - Level 6:
        - chain lightning
+       - creation
    - Skyweaver book
      - Level 1:
        - feather fall
@@ -246,6 +252,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - Gold bracelet worth 50GP
    - Silver Ewer 10GP
    - Pair of skull earrings 10 GP each
+   - Spy's letter from morbeoths room announcing party's arrival in town - very detailed so likely somebody we met, with distinctive handwriting.
 
 ## Misc
 
@@ -301,9 +308,10 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Shape Water [^wizard]
   - Firebolt (120ft ranged attack 2d10 [^wizard]
   - Toll the Dead (60ft wis save or 2d8 necrotic, 2d12 if missing any hp) [^wizard]
-  - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc)[^forest-gnome]
-  - Mage hand[^feat-telekinetic]
+  - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc) [^forest-gnome]
+  - Mage hand [^feat-telekinetic]
   - Mind Sliver (60ft, int save or 2d6 psychic and -1d4 to next save within a turn) [^wizard]
+  - TODO
 
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
@@ -338,9 +346,11 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Sickening Radiance
     - Summon Elemental
     - Charm Monster *
-  - Level 5 (Types covered: bludgeoning slashing piercing):
+  - Level 5 (Types covered: acid/bludgeoning/cold/fire/force/lightning/necrotic/piercing/poison/psychic/radiant/slashing/thunder):
     - Animate Objects *
     - Geas
+    - Summon Draconic Spirit
+    - Steel Wind Strike *
 
 ### Slots
 
@@ -359,7 +369,7 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - :o: :o: :o: Regular spells
 
 #### Level 5
-  - :o: Regular spells
+  - :o: :o: Regular spells
 
 ## Familiars/companions
 
