@@ -126,9 +126,9 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 5            |
-| GP   | 6         | 879          |
+| GP   | 6         | 268          |
 | EP   | 2         | 0            |
-| SP   | 10        | 210          |
+| SP   | 10        | 9            |
 | CP   | 100       | 7            |
 
 ## Equipment
@@ -159,6 +159,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Money pouch
      - Component pouch [^wizard]
        - 50 GP diamond
+       - 400 GP gold inlaid vase (summon elemental)
      - Flask oil
      - 4xThrowing daggers
  - Backpack:
@@ -178,14 +179,6 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
    - scroll of skywrite.
    - Flask of bottled breath
  - Party loot, not divided:
-   - 6 Agates worth 10gp each
-   - Necklace of fireball 5 charges
-   - Basic light crossbow
-   - Mace
-   - Full plate armour
-   - Thurle ring 250GP
-   - scroll of beast bond
-   - Rioth's journal entries
    - Lord of Lance Rock's spellbook
      - Level 1:
        - False Life
@@ -243,15 +236,12 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Level 3:
        - fly
        - lightning bolt
+   - scroll of beast bond
+   - Rioth's journal entries
    - Key (to area of the sacred stone monastry - room 17)
-   - Platinum Torc 1600 worth gold.
    - 4 gold/sapphire rings worth 1000 gold each
    - Diadem worth 6400 gold
-   - 3x ruby 50 each
    - 23 funarary masks worth 50 gp each.
-   - Gold bracelet worth 50GP
-   - Silver Ewer 10GP
-   - Pair of skull earrings 10 GP each
    - Spy's letter from morbeoths room announcing party's arrival in town - very detailed so likely somebody we met, with distinctive handwriting.
 
 ## Misc
@@ -325,32 +315,62 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Magic Missile *
     - Shield (react) *
     - Sleep
-  - Level 2 (Types covered: acid cold fire lightning poison psychic):
+  - Level 2 (Types covered: acid bludgeoning cold fire lightning piercing poison psychic slashing):
+    - Alter self
+    - Arcane lock
+    - Blindness/Deafness
+    - Blur
+    - Cloud of Daggers
     - Dragons Breath (bonus, concentration, 1min, acid/cold/fire/lightning/poison). Touched creature 15ft cone action 3d6 (dex for half)
-    - Phantasmal Force *
-    - Mirror Image *
-    - Levitate *
     - Invisibility
+    - Levitate *
+    - Mirror Image *
+    - Phantasmal Force *
     - Snillocs Snowball Swarm
-  - Level 3 (Types covered: fire psychic necrotic):
+  - Level 3 (Types covered: fire lightning psychic necrotic):
     - Animate Dead
     - Bestow Curse *
+    - Blink
+    - Clairvoyance
     - Counterspell *
     - Dispel Magic *
     - Fireball *
+    - Fly
+    - Gaseous form
     - Intellect Fortress
-    - Hypnotic Pattern *
     - Haste
-  - Level 4 (Types covered: radiant):
+    - Hypnotic Pattern *
+    - Lightning bolt
+  - Level 4 (Types covered: bludgeoning cold fire lightning poison radiant):
+    - Charm Monster *
+    - Ice Storm
     - Otiluke’s Resilient Sphere *
     - Sickening Radiance
+    - Storm Sphere
     - Summon Elemental
-    - Charm Monster *
   - Level 5 (Types covered: acid/bludgeoning/cold/fire/force/lightning/necrotic/piercing/poison/psychic/radiant/slashing/thunder):
     - Animate Objects *
+    - Cloudkill
     - Geas
-    - Summon Draconic Spirit
+    - Seeming
     - Steel Wind Strike *
+    - Summon Draconic Spirit
+
+### Not yet scribed (but in held spellbook):
+  - Level 1:
+    - Burning Hands
+    - Cause Fear
+    - Feather fall
+    - False Life
+    - Ray of Sickness
+    - Thunderwave
+  - Level 2:
+    - Dust devil
+    - Gentle Repose
+    - Gust of wind
+  - Level 6:
+    - Chain lightning
+    - Creation
 
 ### Slots
 
