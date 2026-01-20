@@ -126,7 +126,7 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 |      | 1 GP is   | Coins held   |
 | ---- | --------: | -----------: |
 | PP   | 1/10      | 5            |
-| GP   | 6         | 268          |
+| GP   | 6         | 1589         |
 | EP   | 2         | 0            |
 | SP   | 10        | 9            |
 | CP   | 100       | 7            |
@@ -236,13 +236,10 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
      - Level 3:
        - fly
        - lightning bolt
-   - scroll of beast bond
    - Rioth's journal entries
-   - Key (to area of the sacred stone monastry - room 17)
-   - 4 gold/sapphire rings worth 1000 gold each
-   - Diadem worth 6400 gold
-   - 23 funarary masks worth 50 gp each.
+   - scroll of beast bond
    - Spy's letter from morbeoths room announcing party's arrival in town - very detailed so likely somebody we met, with distinctive handwriting.
+   - Key (to area of the sacred stone monastry - room 17)
 
 ## Misc
 
@@ -298,10 +295,10 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
   - Shape Water [^wizard]
   - Firebolt (120ft ranged attack 2d10 [^wizard]
   - Toll the Dead (60ft wis save or 2d8 necrotic, 2d12 if missing any hp) [^wizard]
+  - Mind Sliver (60ft, int save or 2d6 psychic and -1d4 to next save within a turn) [^wizard]
+  - Prestidigitation
   - Minor illusion (30ft, 1 min, sound or 5' ft^3 image, if examined investigation vs dc) [^forest-gnome]
   - Mage hand [^feat-telekinetic]
-  - Mind Sliver (60ft, int save or 2d6 psychic and -1d4 to next save within a turn) [^wizard]
-  - TODO
 
 ### Spellbook
   Asterisk denotes memorised (int mod + wiz level)
@@ -416,5 +413,6 @@ The tressym can detect whether a substance is poisonous by taste, touch, or smel
 [^wizard]: Wizard class
 [^forest-gnome]: Rock gnome
 [^feat-telekinetic]: Telekinetic Feat
+[^feat-telepathic]: Telekinetic Feat
 
 
