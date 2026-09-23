@@ -352,9 +352,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Seeming
     - Steel Wind Strike *
     - Summon Draconic Spirit
-  - Level 6 (TODO):
-    - TODO
-    - TODO
+  - Level 6 (Types covered: force lightning):
+    - Chain lightning
+    - Disintegrate
 
 ### Not yet scribed (but in held spellbook):
   - Level 1:
