@@ -7,7 +7,7 @@
 
 | Class       | Subclass                             | Level   | HD    |
 | ----------- | ------------------                   | ------: | ----- |
-| Wizard      | Order of Scribes [^order-of-scribes] | 10      | 1d6   |
+| Wizard      | Order of Scribes [^order-of-scribes] | 11      | 1d6   |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       | Mods                                     |
@@ -71,7 +71,7 @@
 
 | Hitpoints   | Lost HP   | Temporary Hitpoints   |
 | ----------- | --------- | --------------------- |
-| 62          | 0         | 0                     |
+| 68          | 0         | 0                     |
 
 ## Abilities
 
@@ -352,6 +352,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
     - Seeming
     - Steel Wind Strike *
     - Summon Draconic Spirit
+  - Level 6 (TODO):
+    - TODO
+    - TODO
 
 ### Not yet scribed (but in held spellbook):
   - Level 1:
@@ -387,6 +390,9 @@ Flossie grew up in Volcanoside, a child of well off vintners. She showed early a
 
 #### Level 5
   - :o: :o: Regular spells
+
+#### Level 6
+  - :o: Regular spells
 
 ## Familiars/companions
 
